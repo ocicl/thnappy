@@ -1,0 +1,10 @@
+* thnappy
+
+Common Lisp bindings to Google's Snappy compression library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/flambard/thnappy   |
+| commit  | 601511e  |
+| systems | thnappy |
+|---------+-------------------------------------------|
+
